@@ -1,0 +1,13 @@
+Ejecutar jar
+1-Se requiere java 11
+2.- Ubicarse en la carpeta estefanini/target en la terminal
+3.-Ejecutar el siguiente comando java -jar estefanini-0.0.1-SNAPSHOT.jar
+
+Levantar WEB
+1.- Ubicarse en la carpeta web_estefanini en la terminal
+2.-  Ejecutar el siguiente comando ng serve -o
+
+
+El usuario en la base de datos
+User:root
+Password:10.Lalo10
