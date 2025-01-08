@@ -4,7 +4,11 @@ Ejecutar jar
 3.-Ejecutar el siguiente comando java -jar estefanini-0.0.1-SNAPSHOT.jar
 
 Levantar WEB
+1.- Descomprimir el proyecto web enviado por correo
 1.- Ubicarse en la carpeta web_estefanini en la terminal
+2.- Ejecutar el siguiente comando:
+      npm install
+      
 2.-  Ejecutar el siguiente comando ng serve -o
 
 
